@@ -1,0 +1,6 @@
+﻿  main.cpp
+  Varparm.cpp
+  Создание кода...
+C:\Users\Misha\Desktop\FIT\KPO\labs\Lab_09\SE_Lab9\SE_Lab9\Varparm.cpp(44,23): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+  LINK : не найден или не выполнена сборка C:\Users\Misha\Desktop\FIT\KPO\labs\Lab_09\SE_Lab9\x64\Debug\SE_Lab9.exe при последней инкрементной компоновке; выполняется полная компоновка
+  SE_Lab9.vcxproj -> C:\Users\Misha\Desktop\FIT\KPO\labs\Lab_09\SE_Lab9\x64\Debug\SE_Lab9.exe
