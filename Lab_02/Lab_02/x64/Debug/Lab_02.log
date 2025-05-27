@@ -1,0 +1,5 @@
+﻿  Lab_02.cpp
+C:\Users\Misha\Desktop\FIT\KPO\labs\Lab_02\Lab_02.cpp(80,1): warning C4723: возможное деление на 0
+C:\Users\Misha\Desktop\FIT\KPO\labs\Lab_02\Lab_02.cpp(79,1): warning C4723: возможное деление на 0
+C:\Users\Misha\Desktop\FIT\KPO\labs\Lab_02\Lab_02.cpp(78,1): warning C4723: возможное деление на 0
+  Lab_02.vcxproj -> C:\Users\Misha\Desktop\FIT\KPO\labs\Lab_02\x64\Debug\Lab_02.exe
