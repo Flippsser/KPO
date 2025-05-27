@@ -1,5 +1,4 @@
 ﻿  SE_Lab10.cpp
 C:\Users\Misha\Desktop\FIT\KPO\labs\Lab_10\SE_Lab10\SE_Lab10\SE_Lab10.cpp(13,20): warning C4244: инициализация: преобразование "__int64" в "int", возможна потеря данных
 C:\Users\Misha\Desktop\FIT\KPO\labs\Lab_10\SE_Lab10\SE_Lab10\SE_Lab10.cpp(15,20): warning C4244: инициализация: преобразование "__int64" в "int", возможна потеря данных
-  LINK : не найден или не выполнена сборка C:\Users\Misha\Desktop\FIT\KPO\labs\Lab_10\SE_Lab10\x64\Debug\SE_Lab10.exe при последней инкрементной компоновке; выполняется полная компоновка
   SE_Lab10.vcxproj -> C:\Users\Misha\Desktop\FIT\KPO\labs\Lab_10\SE_Lab10\x64\Debug\SE_Lab10.exe
